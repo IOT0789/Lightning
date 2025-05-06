@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+requests
+twilio
+matplotlib
+seaborn
+joblib
+scikit-learn
+datetime
+pickle5
